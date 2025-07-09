@@ -1,0 +1,10 @@
+{
+    "animals": [],
+    "eggs": [],
+    "supplies": {
+        "medicine": 30,
+        "food": 30,
+        "soap": 30,
+        "money": 100
+    }
+}
